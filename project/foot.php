@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+   
+   <link href="css/bootstrap.min.css" rel="stylesheet">
+   <link href="css/bootstrap.css" rel="stylesheet">
+  	<link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+  </head>
+<body>
+
+<div class = "panel panel-primary">
+   <div class = "panel-heading">
+      <h3 class = "panel-title" align="center" style="font-size:20px">Devloped by:-krishna vaghela</h3>
+   </div>
+   
+  
+  
+</div>
+
+</body>
+</html>
